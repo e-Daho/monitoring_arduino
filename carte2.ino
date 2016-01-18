@@ -1,12 +1,5 @@
 //ATOMIX Monitoring Carte 2
 
-//24/04/2015 v1.3 JGR
-//23/04/2015 v1.2 VGE delay enlevé
-//22/04/2015 v1.0 TPT récupération des données issues du calculateur et de la boite de vitesse
-//12/04/2015 v0.3 VGE mise a jour des id canbus et des infos calculo
-//31/03/2015 v0.2 VGE
-
-
 //--------------  assignation des pins  ------------------
 const int btn_1 = 49;
 const int btn_2 = 43;
