@@ -1,14 +1,5 @@
 /*ATOMIX Monitoring Carte 3
 
- 15/04/2015 v1   TPT : correction de bugs, mise à jour des id des cartes
- 14/04/2015 v0.6 VGE : mise au point des communications
- 09/04/2015 v0.5 TPT : récupération des données du calculateur
- 04/04/2015 v0.4 TPT : création automatique des fichiers sur la carte SD
- 31/03/2015 v0.3 TPT : ajout du module de carte SD, stockage des variables sur la carte SD
- 31/03/2015 v0.2 VGE : Récupération des données par le CANbus et les capteurs
- 
-  
- 	
  The circuit:
  * analog sensors on analog ins 0, 1, and 2
  * SD card attached to SPI bus as follows:
