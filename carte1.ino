@@ -1,16 +1,5 @@
 //ATOMIX Monitoring Carte 1
 
-//25/04/2015 v1.3 VGE réparation du canbus
-//23/04/2015 v1.2 VGE changement affichage rapport
-//22/04/2015 v1.1 VGE
-//15/04/2015 v1.0 VGE mise a jour des id
-//13/04/2015 v0.6 VGE nouvelle interface de course
-//12/04/2015 v0.5 VGE mise a jour des id canbus et des infos calculo
-//04/05/2015 v0.4 VGE animation de l'écran et barre de régime
-//31/03/2015 v0.3 VGE écran de démarrage, et programmation de l'interface de course
-//24/03/2015 v0.2 VGE
-
-
 //--------------  assignation des pins  ------------------
 
 const int cpt_debat_avg = 0;
